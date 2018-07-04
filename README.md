@@ -1,6 +1,6 @@
 FB-REX 
 
-wite for more update in
+wite for more update in and follow me
 
 https://github.com/T-Rex17
 

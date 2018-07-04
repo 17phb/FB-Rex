@@ -18,7 +18,7 @@ while hd=='n':
 #  88      88   8D        88 `88. 88.     .8P  Y8. 
 #  YP      Y8888P'        88   YD Y88888P YP    YP 
 #
-#              coding by T-Rex
+#              coded by T-Rex
 #     
 #          www.facebook.com/17phb
 #
